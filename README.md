@@ -1,0 +1,1 @@
+# varnish-local-cache
